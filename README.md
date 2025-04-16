@@ -14,6 +14,17 @@ Make sure you have Python and pip installed. Open the terminal in VS Code and ru
 pip install pandas numpy scikit-learn nltk streamlit
 ```
 
+## Examples to Run in front of the Faculty
+```
+Hate Speech: "Kill all [ethnic group]!"
+```
+```
+Offensive Language: "You're such a Bitch!"
+```
+```
+No Hate: "Awwwwe! This is soooo ADORABLE!"
+```
+
 ## 3. Run the Streamlit App
 Use this command in the terminal inside the project folder:
 
