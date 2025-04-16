@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 
 # Data Collection
-data = pd.read_csv("D:\\ML Project\\twitter.csv")
+data = pd.read_csv("twitter.csv")
 
 # Adding a new column to the dataset as labels
 data["labels"] = data["class"].map({0: "Hate Speech",
