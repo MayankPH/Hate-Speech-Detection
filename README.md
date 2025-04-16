@@ -22,12 +22,15 @@ streamlit run app.py
 ```
 
 ## Examples to Run in front of the Faculty
+Hate Speech: 
 ```
-Hate Speech: "Kill all [ethnic group]!"
+Kill all [ethnic group]!
 ```
+Offensive Language: 
 ```
-Offensive Language: "You're such a Bitch!"
+You're such a Bitch!
 ```
+No Hate: 
 ```
-No Hate: "Awwwwe! This is soooo ADORABLE!"
+Awwwwe! This is soooo ADORABLE!
 ```
